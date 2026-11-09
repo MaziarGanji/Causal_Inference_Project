@@ -1,5 +1,5 @@
 # Causal_Inference_Project
 
-Classification and causal inference of the drugs on disease.
+Causal inference analysis of the drugs on disease.
 
 # Classification Pipeline and Report
